@@ -107,7 +107,7 @@ getter and/or setter methods.
 
 - `Person#call_friend(friend)`: accepts another instance of the `Person` class,
   or "friend". The method should increment the person and the friend's happiness
-  points by three. It should also return a string. For example, if Stella calls
+  points by three. It should also return a string. For example, if Stella call
   her friend Felix, the method increment both Stella and Felix's happiness
   points and then return `"Hi Felix! It's Stella. How are you?"`.
 
